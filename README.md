@@ -4,7 +4,7 @@
 
 <div align="center">
   <br />
-  <a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank">
+  <a href="https://youtu.be/ugxI1o5SyMs" target="_blank">
    <img width="1280" height="720" alt="Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of 10,000 REACT COMPONENTS" src="https://github.com/user-attachments/assets/819fc9b5-713e-4fbe-b659-dc1067d4bd82" />
 
   </a>
@@ -39,7 +39,7 @@
 
 In this tutorial, you’ll learn how to build a production‑ready **Trello‑Style App** using **Next.js**, **Supabase**, **Clerk**, **dnd‑kit**, and **TailwindCSS**. You’ll implement **real‑time data**, **authentication & billing**, **drag‑and‑drop**, and **filtering**, all deployed to Vercel.
 
-🎥 Watch the full tutorial: [YouTube](https://youtu.be/YOUR_VIDEO_ID)
+🎥 Watch the full tutorial: [YouTube](https://youtu.be/ugxI1o5SyMs)
 
 ---
 
